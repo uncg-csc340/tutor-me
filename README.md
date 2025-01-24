@@ -5,7 +5,8 @@
 > Alice Beck, Joe Schmoe, Bob McBobbyface
 
 ## Description 
-> TutorMe is a simple, comprehensive, easy to use web app with the goal of providing tutoring classes to students in various fields. Students and tutors make use of the centralized platform to meet their needs. Tutors create and publish tutoring sessions, students sign for any available sessions that they are interested in.
+> TutorMe is a simple, comprehensive, easy to use web app with the goal of providing tutoring classes to students in various fields.
+> Students and tutors make use of the centralized platform to meet their needs. Tutors create and publish tutoring sessions, students sign for any available sessions that they are interested in.
 >
 
 ## App Functions
@@ -24,4 +25,3 @@
     2. Moderate services - remove/unpublish classes.
     3. Moderate reviews - remove/hide reviews.
     4. View usage statistics - view app membership.
-
